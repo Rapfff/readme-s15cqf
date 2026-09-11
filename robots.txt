@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://Rapfff.github.io/readme-s15cqf/sitemap.xml
